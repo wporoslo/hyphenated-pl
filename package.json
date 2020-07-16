@@ -1,0 +1,24 @@
+{
+  "name": "hyphenated-pl",
+  "version": "1.0.0",
+  "description": "This package contains hyphenation patterns and exceptions for the Polish language. To be used with `hyphenated` library.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wporoslo/hyphenated-pl.git"
+  },
+  "keywords": [
+    "hyphenation",
+    "hyphenate",
+    "polish",
+    "pl",
+    "javascript",
+    "library"
+  ],
+  "author": "Wojciech Porosło",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wporoslo/hyphenated-pl/issues"
+  },
+  "homepage": "https://github.com/wporoslo/hyphenated-pl#readme"
+}
